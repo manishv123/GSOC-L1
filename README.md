@@ -1,5 +1,6 @@
 # GSOC-L1
-Mentorship template for preparing for Google summer of Code challenge. Type = Level 1
+Mentorship template for preparing for Google summer of Code challenge. Type = Level 1.
+ Powered by [Twoleaps.com](www.twoleaps.com)
 
 ## How to use this template?
 
@@ -19,7 +20,7 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 
 ## Timeline
 
-<Add mentorship timeline here in weeks. Example: 8 weeks starting 10th August>
+Start date: 22nd August 2017
 
 ## Goals
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
