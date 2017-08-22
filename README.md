@@ -74,6 +74,6 @@ Track weekly progress in this section according to above mentioned goals.
     - [ ] AUL: Always Use Linux. Specially when programming.
     - [ ] IRC
     	- [ ] Learn how IRC works (Just google search)
-	- [ ] Sign up on IRC and explore some channels (Ex: #javadevs)
+	    - [ ] Sign up on IRC and explore some channels (Ex: #javadevs)
     - [ ] Explore projects on Openhub and list down top 5 which you like.
     - [ ] Setup Virtualbox on linux and install OS
