@@ -67,6 +67,13 @@ or the mentee's preferences.
 Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
+    - [ ] Learn more about Git and Github
+    	- [ ] [Git tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+	- [ ] [Git internals](https://www.youtube.com/watch?v=GFNPoHGeVDM)
+    	- [ ] [Complete practice on TryGit](https://try.github.io/levels/1/challenges/1)
+    - [ ] AUL: Always Use Linux. Specially when programming.
+    - [ ] IRC
+    	- [ ] Learn how IRC works (Just google search)
+	- [ ] Sign up on IRC and explore some channels (Ex: #javadevs)
+    - [ ] Explore projects on Openhub and list down top 5 which you like.
+    - [ ] Setup Virtualbox on linux and install OS
