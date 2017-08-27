@@ -1,0 +1,22 @@
+Learned Various git commands as follows:
+
+1.First make a git repository inside a folder using git init command.
+2.git status-->to check status of repository(i.e various coomits made).
+3.Now after modifying files I used git add -A to add changes to repo(also called staging).
+4.After adding use "git commit -m message" to commit for the changes.
+5.to add to remote repo use git remote add rem link.
+6.now to push to remote repo's master use git push rem master.
+7.to pull changes from remote use git pull rem master.
+8.To clone repo to local pc use git clone link.
+9.to create branch use git branch branch_name.
+10.To switch branch use git checkout branch_name.
+11.to merge branch to master use git merge branch_name.
+12.to remove branch after merging use git branch -d branch_name.
+13.to view commits use git log.
+14.to revert a file to previous version use git checkout commit_id filename.
+15.to fix a commit use git commit --amend.
+16.if changes have been pushed use git revert HEAD(or commit id) to revert recent commit.
+17.To pick certain commit and push to master use git cherry-pick commit_id.
+18.To change history of commits use git rebase --interactive HEAD~2.
+
+

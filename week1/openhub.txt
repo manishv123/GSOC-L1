@@ -1,0 +1,5 @@
+1.itextpdf-->it used java libraries to modify pdf files.
+2.emoji-cheat-sheet.com-->it used HTML code to search for certain emojis by using alternative names(synonyms).
+3.open-event-webapp by fossasia that generated event website after accepting JSON objects.
+4.susi_server-->it is an AI assistant that can chat,recognise voice etc.
+

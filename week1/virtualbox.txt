@@ -1,0 +1,1 @@
+set up virtual box on linux and tried to install fedora but due to some error(which i could not figure out) while installing i tried to install ubuntu.
