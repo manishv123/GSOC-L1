@@ -27,17 +27,17 @@ The objectives of the mentorship should be listed down here. They can be customi
 or the mentee's preferences.
 
 - [ ] Tools
-    - [ ] Git
-    - [ ] Github
-    - [ ] IRC
+    - [x] Git
+    - [x] Github
+    - [x] IRC
     - [ ] Bug tracker
     - [ ] Wiki
-    - [ ] Linux
-    - [ ] Virtual Machines / Vbox / Vagrant
+    - [x] Linux
+    - [x] Virtual Machines / Vbox / Vagrant
 
 - [ ] Finding right project
-    - [ ] Openhub
-    - [ ] Chosing a programming language
+    - [x] Openhub
+    - [x] Chosing a programming language
     - [ ] Reading how to contribute
 
 - [ ] Learn about GSOC
@@ -78,3 +78,15 @@ Track weekly progress in this section according to above mentioned goals.
 	    - [x] Sign up on IRC and explore some channels (Ex: #javadevs)
     - [x] Explore projects on Openhub and list down top 5 which you like.
     - [x] Setup Virtualbox on linux and install OS
+
+- ### Week 2
+    - [ ] Explore [vagrant](https://opensource.com/resources/vagrant)
+    - [ ] Learn about [GSOC program](https://summerofcode.withgoogle.com/)
+        - [ ] Understand criteria and how it works.
+        - [ ] See the timeline of important events.
+        - [ ] See the type of [projects](https://summerofcode.withgoogle.com/projects/) that come every year.
+    - [ ] Do research in finding the right project
+        - [ ] Go throught list of organizations that participated in last 2 years.
+        - [ ] Select 3 suitable organizations.
+        - [ ] Select 3 projects per organization.
+        - [ ] Read how to contribute for the selected organizations.
