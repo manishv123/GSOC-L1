@@ -85,8 +85,8 @@ Track weekly progress in this section according to above mentioned goals.
         - [x] Understand criteria and how it works.
         - [x] See the timeline of important events.
         - [x] See the type of [projects](https://summerofcode.withgoogle.com/projects/) that come every year.
-    - [ ] Do research in finding the right project
+    - [x] Do research in finding the right project
         - [x] Go throught list of organizations that participated in last 2 years.
         - [x] Select 3 suitable organizations.
         - [x] Select 3 projects per organization.
-        - [ ] Read how to contribute for the selected organizations.
+        - [x] Read how to contribute for the selected organizations.
