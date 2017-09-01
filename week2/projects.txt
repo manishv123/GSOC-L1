@@ -1,0 +1,31 @@
+Organisation:1.CC Development Extractor.
+
+Projects:
+
+1.CC Aligner-->This project tags each word with timestamp as it is spoken.
+2.Extraction of Highlights of sports video-->This project develops a software that models a video input into time series of excitement curves(I was not able to understand it clearly.) that can be used for highlights extraction.
+3.Write high speed subtitle sync. tool-->This project aims to create modified subtitle file according to the modification done in original video's audio and video(i.e generates subtitle file for edited file).
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Organisation:2.FFMpeg.
+
+Projects:
+
+1.FITS(Flexible Image Transport System) image encoder and decoder-->This project is working to implement FITS encoder and decoder in FFmpeg.
+2.Fully featured ambisonic decoder implemented as a filter-->This project works to implement decoder which decodes standard B-Format(speaker independent representation of a sound field i.e does not contains speaker signals in its transmission channel) and convert into req. speaker configuration.
+3.Browsing content on the server-->This project provides methods for browsing files on remote locations.
+
+How to Contribute:https://www.ffmpeg.org/developer.html
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Organisation:3.Fossasia.
+
+Projects:
+
+1.SUSI Web chat app will be implemented over SUSI server API that can respond to chat in the form of text,image,feed etc.
+2.Web Application using SUSI.AI Server functionalities to intelligently reply to user's query in the form of text,images etc.
+3.Enhancement of susiAI webchat.
+
+How to Contribute:http://blog.fossasia.org/tag/contribution/

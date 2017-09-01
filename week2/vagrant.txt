@@ -1,0 +1,9 @@
+Used Vagrant.
+1>Installed vagrant file using vagrant init command.
+2>Added box using vagrant box add hashicorp/precise64 (Ubuntu 12.04 LTS).
+3>Configured Vagrant file to boot precise64 as config.vm.box="hashicorp/precise64"
+4>To start VM used vagrant up.
+5>To use it i have used vagrant ssh.
+6>At this point i understand that we can install any software that we want on guest machine and the folder that contains vagrant file is in sync with host machine(i.e any change made in host machine will be reflected in guest machine).
+7>To logout from VM used Ctrl+D.
+8>To destroy(turn off) VM used vagrant destroy.
