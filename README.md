@@ -38,13 +38,13 @@ or the mentee's preferences.
 - [ ] Finding right project
     - [x] Openhub
     - [x] Chosing a programming language
-    - [ ] Reading how to contribute
+    - [x] Reading how to contribute
 
 - [ ] Learn about GSOC
-    - [ ] Structure of the program.
-    - [ ] How it works?
-    - [ ] Organizations that participated in last year
-    - [ ] What is the benefit of participating in GSOC?
+    - [x] Structure of the program.
+    - [x] How it works?
+    - [x] Organizations that participated in last year
+    - [x] What is the benefit of participating in GSOC?
     - [ ] Timeline and important dates.
 
 - [ ] Getting started
@@ -90,3 +90,9 @@ Track weekly progress in this section according to above mentioned goals.
         - [x] Select 3 suitable organizations.
         - [x] Select 3 projects per organization.
         - [x] Read how to contribute for the selected organizations.
+ - ### Week 3
+     - [ ] Setup code on desktop for the project (Susi Server)[https://github.com/fossasia/susi_server] and make it run.
+     - [ ] Join mailing list and IRC channel for this project.
+     - [ ] Find an easy issue to solve.
+     - [ ] Discuss how to solve the issue with the community members and project heads.
+     - [ ] Find additional documentation of the project to understand it throughly. This includes internal architecture.
