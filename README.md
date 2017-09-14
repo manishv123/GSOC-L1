@@ -91,8 +91,8 @@ Track weekly progress in this section according to above mentioned goals.
         - [x] Select 3 projects per organization.
         - [x] Read how to contribute for the selected organizations.
  - ### Week 3
-     - [ ] Setup code on desktop for the project [Susi Server](https://github.com/fossasia/susi_server) and make it run.
-     - [ ] Join mailing list and IRC channel for this project.
-     - [ ] Find an easy issue to solve.
-     - [ ] Discuss how to solve the issue with the community members and project heads.
+     - [x] Setup code on desktop for the project [Susi Server](https://github.com/fossasia/susi_server) and make it run.
+     - [x] Join mailing list and IRC channel for this project.
+     - [x] Find an easy issue to solve.
+     - [x] Discuss how to solve the issue with the community members and project heads.
      - [ ] Find additional documentation of the project to understand it throughly. This includes internal architecture.
