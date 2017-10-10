@@ -97,7 +97,7 @@ Track weekly progress in this section according to above mentioned goals.
      - [x] Discuss how to solve the issue with the community members and project heads.
      - [ ] Find additional documentation of the project to understand it throughly. This includes internal architecture.
  - ### Week 4
-     - [ ] Develop clarity on how to submit pull request. This includes squashing/rebase etc.
+     - [x] Develop clarity on how to submit pull request. This includes squashing/rebase etc.
      - [ ] Solve an issue involving code changes.
-     - [ ] Get involved in blogging. Start a blog on medium/blogspot/wordpress.
-     - [ ] Start a twitter account if doesn't exists. Follow the channels for FossAsia and the project related news channels.
+     - [x] Get involved in blogging. Start a blog on medium/blogspot/wordpress.
+     - [x] Start a twitter account if doesn't exists. Follow the channels for FossAsia and the project related news channels.
