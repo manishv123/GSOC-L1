@@ -30,8 +30,8 @@ or the mentee's preferences.
     - [x] Git
     - [x] Github
     - [x] IRC
-    - [ ] Bug tracker
-    - [ ] Wiki
+    - [x] Bug tracker
+    - [x] Wiki
     - [x] Linux
     - [x] Virtual Machines / Vbox / Vagrant
 
@@ -45,7 +45,7 @@ or the mentee's preferences.
     - [x] How it works?
     - [x] Organizations that participated in last year
     - [x] What is the benefit of participating in GSOC?
-    - [ ] Timeline and important dates.
+    - [x] Timeline and important dates.
 
 - [x] Getting started
     - [x] Finding right organisation.
@@ -58,8 +58,8 @@ or the mentee's preferences.
     - [x] Submitting code.
 
 - [ ] Creating presence in open source world
-    - [ ] Blogging
-    - [ ] Twitter
+    - [x] Blogging
+    - [x] Twitter
     - [ ] Joining community / Champion a cause.
     - [ ] Other opportunities.
 
@@ -95,9 +95,12 @@ Track weekly progress in this section according to above mentioned goals.
      - [x] Join mailing list and IRC channel for this project.
      - [x] Find an easy issue to solve.
      - [x] Discuss how to solve the issue with the community members and project heads.
-     - [ ] Find additional documentation of the project to understand it throughly. This includes internal architecture.
+     - [x] Find additional documentation of the project to understand it throughly. This includes internal architecture.
  - ### Week 4
      - [x] Develop clarity on how to submit pull request. This includes squashing/rebase etc.
-     - [ ] Solve an issue involving code changes.
+     - [x] Solve an issue involving code changes.
      - [x] Get involved in blogging. Start a blog on medium/blogspot/wordpress.
      - [x] Start a twitter account if doesn't exists. Follow the channels for FossAsia and the project related news channels.
+ - ### Week 5
+     - [ ] Complete pull request
+     - [ ] Find another java project in a different organization and set it up for development.
